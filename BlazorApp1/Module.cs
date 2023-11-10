@@ -1,9 +1,8 @@
-﻿namespace BlazorApp1;
+﻿using System;
 
-public class Module
+public class Class1
 {
-    public static void Main()
-    {
-        // only for visual studio
-    }
+	public Class1()
+	{
+	}
 }
